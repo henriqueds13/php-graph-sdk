@@ -42,7 +42,7 @@ class AccessToken
      *
      * @var \DateTime|null
      */
-    protected $expiresAt;
+    protected $expiresAt;asfasfas
 
     /**
      * Create a new access token entity.
